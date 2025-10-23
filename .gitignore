@@ -1,0 +1,20 @@
+# Ignore local model weights and archives
+*.gguf
+*.safetensors
+*.bin
+*.pth
+*.pt
+*.zip
+*.tar
+*.tgz
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.log
+
+# Node / Python caches (if any future scripts are added)
+node_modules/
+__pycache__/
+.venv/
+*.pyc
